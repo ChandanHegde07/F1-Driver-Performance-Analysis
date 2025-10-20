@@ -2,21 +2,14 @@
 venv/
 .venv/
 
-# Python cache files
 __pycache__/
 *.pyc
 
-# Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# IDE and editor directories
 .vscode/
 .idea/
 
-# --- FastF1 Cache Files ---
-# Ignore the entire cache directory (BEST METHOD)
 f1_cache/
 
-# Alternatively, or for extra safety, ignore specific file patterns
-# *.ff1pkl
-# fastf1_http_cache.*
+data
